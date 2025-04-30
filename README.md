@@ -33,7 +33,7 @@ bash
 Copy
 Edit
 python -m venv venv
-# Activate the environment:
+### Activate the environment:
 # On Windows:
 venv\Scripts\activate
 # On macOS/Linux:
